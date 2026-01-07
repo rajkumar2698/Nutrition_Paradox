@@ -1,6 +1,6 @@
-# 🌍 Nutrition Paradox: A Global View on Obesity and Malnutrition
+#  Nutrition Paradox: A Global View on Obesity and Malnutrition
 
-## 📌 Project Overview
+##  Project Overview:
 This project analyzes the global **nutrition paradox**, where **obesity and malnutrition coexist across different regions of the world**.  
 Using **WHO Global Health Observatory (GHO) data**, the project explores trends, regional patterns, demographic differences, and uncertainty in estimates.
 
@@ -21,9 +21,9 @@ The entire analysis is implemented in a **single Jupyter Notebook** using Python
 ## 📊 Dataset
 - Source: **World Health Organization (WHO) – Global Health Observatory**
 - Indicators used:
-  - ** Adult obesity **
+  - **Adult obesity**
   - Child & adolescent obesity
-  - ** Adult malnutrition **
+  - **Adult malnutrition**
   - Child & adolescent malnutrition
 - Time period analyzed: **2012 – 2022**
 
@@ -40,7 +40,7 @@ The entire analysis is implemented in a **single Jupyter Notebook** using Python
 ---
 
 ## 📈 Key Visualizations
-The notebook includes **10 visualizations**, covering:
+The notebook includes **25 visualizations**, covering:
 - Distribution of obesity levels  
 - Global obesity trends over time  
 - Regional comparison of malnutrition  
@@ -76,6 +76,5 @@ Nutrition_Paradox-Project
 
 ## 👤 Author
 ** Rajkumar ** 
-LinkedIn: https://www.linkedin.com/in/pravinkumar-s-49b23b231
 
 ---
